@@ -1,5 +1,12 @@
+hr.hr_red{
+  border-color:red;
+}
 .App {
-  text-align: center;
+  background: black;
+  color: aqua;
+  font-size: 36px;
+  padding: 1rem;
+  font-weight: 600;
 }
 
 .App-logo {
