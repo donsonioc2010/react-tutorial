@@ -21,12 +21,12 @@ function MyName(name){
     )
 }
 */
-const MyName = ({name})=>{
-    return(
+const MyName = ({ name }) => {
+    return (
         <div>
             Hi MyName is <b>{name}</b> {/*안에 두개전부사용가능*/}
         </div>
-    )
-}
+    );
+};
 
-export default MyName
+export default MyName;
